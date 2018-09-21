@@ -1,0 +1,19 @@
+{
+    "name": "jessizanelato/php-dojo",
+    "require": {
+        "php": "^7.0",
+        "phpunit/phpunit": "^6.5",
+        "symfony/cache": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jessica Zanelato",
+            "email": "jessizanelato@gmail.com"
+        }
+    ]
+}
